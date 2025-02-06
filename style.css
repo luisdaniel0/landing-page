@@ -120,3 +120,25 @@ a{
 .characterImg{
   max-width: 400px;
 }
+
+.quoteContainer{
+  display:flex;
+  justify-content: center;
+  font-size:36px;
+  font-style: italic; 
+  color:#1f2937
+}
+
+.quoteAuthor{
+  display:flex;
+  justify-content: center;
+  padding-left:400px;
+  font-style: italic;
+}
+
+.third-container{
+  background-color: #e5e7eb;
+  padding: 40px;
+  margin-top: 40px;
+
+}
