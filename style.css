@@ -142,3 +142,27 @@ a{
   margin-top: 40px;
 
 }
+
+.lastContainer{
+  display:flex;
+  justify-content: center;
+  margin:40px;
+}
+
+#bottomButton{
+  
+
+}
+
+.callToAction{
+  background-color: #3882f6;
+  padding:20px;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  background-color: #1f2937;
+  color: #f9f9f9;
+  padding:25px;
+}
